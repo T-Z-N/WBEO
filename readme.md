@@ -8,19 +8,13 @@ concepts and relations.
 This repository contains the ontology files, and plans for future work. 
 
 - **📊 Figures**: Diagrams and illustrations of the BEAR Framework
-  - `BEARFramework.svg`: Visual representation of the framework's architecture
-  - `Blindspots.svg`: Visualization of business ecosystem blindspots concept
-
-- **🔄 KG&Data**: Knowledge Graph and Dataset
-  - `KG.rdf`: Knowledge graph in RDF format containing WindEnergy Hamburg 2024 data (35 companies)
+  - `Plan.png`: Visual representation of the framework's planned architecture and components, including the Wind Business Ecosystem Ontology (WBEO) and its relationship to the Business Ecosystem Ontology (BEO) and Basic Formal Ontology (BFO).
 
 - **🎯 Related Talks & Papers**: Presentation materials from Ontology Summit 2025
   - `Presentation.pdf`: Slides from the presentation "Beyond Blind Spots"
 
 - **🧩 ontology**: Business Ecosystem Ontology used in the Research Article
-  - `BEO.rdf`: Business Ecosystem Ontology in RDF format
-
-
+  - `WBEO.rdf`: Wind Energy Business Ecosystem Ontology in RDF format
 
 <figure>
   <img src="figures/Plan.png" style="max-width: 100%; height: auto;" alt="Plan and location of WBEO"/>
