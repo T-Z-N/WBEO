@@ -18,9 +18,6 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    
-
-
     <!-- https://purl.org/wbeo#collaboratesWith -->
 
     <owl:ObjectProperty rdf:about="https://purl.org/wbeo#collaboratesWith">
