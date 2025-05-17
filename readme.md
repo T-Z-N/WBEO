@@ -1,19 +1,14 @@
 # Wind Business Ecosystem Ontology (WBEO)
 
-The Wind Business Ecosystem Ontology (WBEO) is a semantic model that captures the stakeholders, relationships, and organizational structures within the wind energy sector. This ontology provides a structured vocabulary and framework for representing the complex business ecosystem of the wind energy industry. Future work will focus on extending the ontology to include additional stakeholders, relationships, and organizational structures, as well as intensional work e.g., description for the
-concepts and relations. 
-
+Wind Business Ecosystem Ontology (WBEO) is an ontology that is an application ontology that aims to capture the stakeholders and their relationships within the wind energy domain.
 # Repository Overview 📂
 
-This repository contains the ontology files, and plans for future work. 
+This repository contains the ontology files and plans for future work. 
 
-- **📊 Figures**: Diagrams and illustrations of the BEAR Framework
+- **📊 Figures**: Diagrams and illustrations related to WBEO
   - `Plan.png`: Visual representation of the framework's planned architecture and components, including the Wind Business Ecosystem Ontology (WBEO) and its relationship to the Business Ecosystem Ontology (BEO) and Basic Formal Ontology (BFO).
 
-- **🎯 Related Talks & Papers**: Presentation materials from Ontology Summit 2025
-  - `Presentation.pdf`: Slides from the presentation "Beyond Blind Spots"
-
-- **🧩 ontology**: Business Ecosystem Ontology used in the Research Article
+- **🧩 ontology**: Wind Energy Business Ecosystem Ontology
   - `WBEO.rdf`: Wind Energy Business Ecosystem Ontology in RDF format
 
 <figure>
