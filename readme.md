@@ -5,15 +5,12 @@ concepts and relations.
 
 # Repository Overview 📂
 
-This repository contains the ontology files, and plans for future work. 
+This repository contains the ontology files and plans for future work. 
 
-- **📊 Figures**: Diagrams and illustrations of the BEAR Framework
+- **📊 Figures**: Diagrams and illustrations related to WBEO
   - `Plan.png`: Visual representation of the framework's planned architecture and components, including the Wind Business Ecosystem Ontology (WBEO) and its relationship to the Business Ecosystem Ontology (BEO) and Basic Formal Ontology (BFO).
 
-- **🎯 Related Talks & Papers**: Presentation materials from Ontology Summit 2025
-  - `Presentation.pdf`: Slides from the presentation "Beyond Blind Spots"
-
-- **🧩 ontology**: Business Ecosystem Ontology used in the Research Article
+- **🧩 ontology**: Wind Energy Business Ecosystem Ontology
   - `WBEO.rdf`: Wind Energy Business Ecosystem Ontology in RDF format
 
 <figure>
